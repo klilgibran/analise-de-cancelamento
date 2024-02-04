@@ -1,0 +1,2 @@
+analise-de-cancelamento-clientes/ filter=lfs diff=lfs merge=lfs -text
+analise-de-cancelamento-clientes/* filter=lfs diff=lfs merge=lfs -text
